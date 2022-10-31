@@ -1,85 +1,116 @@
 {
     "Styles": [
-      {
-        "id": 1,
-        "tipo": "Aquarela"
-      },
-      {
-        "id": 2,
-        "tipo": "Branco e preto"
-        
-      },
-      {
-        "id": 3,
-        "tipo": "Blackwork"  
-      },
-      {
-        "id": 4,
-        "nome": "Glitch"
-      },
-      {
-        "id": 5,
-        "nome": "Single line"
-      },
-      {
-          "id": 6,
-          "tipo": "Oriental"
-        },
-      {
-        "id": 7,
-        "tipo": "Pontilhismo"
-      },
-      {
-          "id": 8,
-          "tipo": "Realista"
+        {
+            "id": 1,
+            "tipo": "Aquarela",
+            "descricao": "Coloridas e cheias de vida, as tatuagens em aquarela são um prato cheio de criatividade."
         },
         {
-          "id": 9,
-          "tipo": "Maon"
+            "id": 2,
+            "tipo": "Preto e branco",
+            "descricao": "Os grandes destaques do estilo ficam por conta do sombreado e da precisão do traço."
         },
         {
-          "id": 10,
-          "tipo": "Geometrico"
+            "id": 3,
+            "tipo": "Blackwork",
+            "descricao": "O desenho é contado a partir da presença ou da ausência do pigmento"
         },
         {
-          "id": 11,
-          "tipo": "Sem contorno"
+            "id": 4,
+            "tipo": "Glitch",
+            "descricao": "Os desenhos contam com distorções estratégicas, para parecer que a tatuagem travou, ou deu um bug"
+        },
+        {
+            "id": 5,
+            "tipo": "Single line",
+            "descricao": "Feitas com apenas uma linha"
+        },
+        {
+            "id": 6,
+            "tipo": "Oriental",
+            "descricao": "Os desenhos, na maioria das vezes, são grandes e ocupam todo o local escolhido"
+        },
+        {
+            "id": 7,
+            "tipo": "Pontilhismo",
+            "descricao": "É feita por pequenos pontos que formam o desenho"
+        },
+        {
+            "id": 8,
+            "tipo": "Realista",
+            "descricao": "São totalmente racionais, as tatuagens realistas prezam pelos detalhes e por muita - MUITA - fidelidade em relação à realidade."
+        },
+        {
+            "id": 9,
+            "tipo": "Maon",
+            "descricao": "Com curvas e tamanhos variados, a tribal costuma ser toda em preto e traz um simbolismo lá dos tempos antigos"
+        },
+        {
+            "id": 10,
+            "tipo": "Geometrico",
+            "descricao": "Todas têm um ar sofisticado com suas retas e círculos em conjunto. "
+        },
+        {
+            "id": 11,
+            "tipo": "Sem contorno",
+            "descricao": "Os desenhos tão vívidos que o clássico contorno preto chega a não ser nem necessário."
         }
     ],
-    "Tamanhos": [
-      {
-        "id": 1,
-        "nome":""
-      },
-      {
-        "id": 2,
-        "nome":""
-      },
-      {
-      "id": 3,
-        "nome":""
-      }
+    "Funcioários": [
+        {
+            "id": 1,
+            "nome": "Mike dos Santos",
+            "idade": "29 anos",
+            "tempo de serviço": "4 anos",
+            "celular": "21900050033"
+        },
+        {
+            "id": 2,
+            "nome": "Thaylor",
+            "idade": "24 anos",
+            "tempo de serviço": "2 anos",
+            "celular": "21900087609"
+        },
+        {
+            "id": 3,
+            "nome": "Leandro",
+            "idade": "37 anos",
+            "tempo de serviço": "10 anos",
+            "celular": "21905000984"
+        },
+        {
+            "id": 4,
+            "nome": "Melanie",
+            "idade": "26 anos",
+            "tempo de serviço": "3 anos",
+            "celular": "2190400004"
+        }
     ],
     "Marcas de tintas": [
-      {
-        "id": 1,
-        "nome": "Starbrite colors"
-      },
-      {
-        "id": 2,
-        "nome": "Electric ink"
-      },
-      {
-          "id": 3,
-          "nome": "Iron works"
+        {
+            "id": 1,
+            "nome": "Starbrite colors",
+            "descrição": "aprovado pela anvisa"
         },
         {
-          "id": 4,
-          "nome": "Master's ink"
+            "id": 2,
+            "nome": "Electric ink",
+            "descrição": "aprovado pela anvisa"
         },
         {
-          "id": 5,
-          "nome": "Viper ink"
+            "id": 3,
+            "nome": "Iron works",
+            "descrição": "aprovado pela anvisa"
+        },
+        {
+            "id": 4,
+            "nome": "Master's ink",
+            "descrição": "aprovado pela anvisa"
+        },
+        {
+            "id": 5,
+            "nome": "Viper ink",
+            "descrição": "aprovado pela anvisa"
         }
     ]
-  }
+}

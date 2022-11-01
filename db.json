@@ -95,7 +95,7 @@
           "nome": "piercing"
         }
       ],
-    "Funcioários": [
+    "funcioarios": [
         {
             "id": 1,
             "nome": "Mike dos Santos",
@@ -125,7 +125,7 @@
             "celular": "2190400004"
         }
     ],
-    "Marcas de tintas": [
+    "marcas-de-tintas": [
         {
             "id": 1,
             "nome": "Starbrite colors",

@@ -3,59 +3,98 @@
         {
             "id": 1,
             "tipo": "Aquarela",
-            "descricao": "Coloridas e cheias de vida, as tatuagens em aquarela são um prato cheio de criatividade."
+            "descrição": "Coloridas e cheias de vida, as tatuagens em aquarela são um prato cheio de criatividade.",
+            "categoria_id":1
         },
         {
             "id": 2,
             "tipo": "Preto e branco",
-            "descricao": "Os grandes destaques do estilo ficam por conta do sombreado e da precisão do traço."
+            "descrição": "Os grandes destaques do estilo ficam por conta do sombreado e da precisão do traço.",
+            "categoria_id":1
         },
         {
             "id": 3,
             "tipo": "Blackwork",
-            "descricao": "O desenho é contado a partir da presença ou da ausência do pigmento"
+            "descrição": "O desenho é contado a partir da presença ou da ausência do pigmento",
+            "categoria_id":1
         },
         {
             "id": 4,
             "tipo": "Glitch",
-            "descricao": "Os desenhos contam com distorções estratégicas, para parecer que a tatuagem travou, ou deu um bug"
+            "descrição": "Os desenhos contam com distorções estratégicas, para parecer que a tatuagem travou, ou deu um bug",
+            "categoria_id":1
         },
         {
             "id": 5,
             "tipo": "Single line",
-            "descricao": "Feitas com apenas uma linha"
+            "descrição": "Feitas com apenas uma linha",
+            "categoria_id":1
         },
         {
             "id": 6,
             "tipo": "Oriental",
-            "descricao": "Os desenhos, na maioria das vezes, são grandes e ocupam todo o local escolhido"
+            "descrição": "Os desenhos, na maioria das vezes, são grandes e ocupam todo o local escolhido",
+            "categoria_id":1
         },
         {
             "id": 7,
             "tipo": "Pontilhismo",
-            "descricao": "É feita por pequenos pontos que formam o desenho"
+            "descrição": "É feita por pequenos pontos que formam o desenho",
+            "categoria_id":1
         },
         {
             "id": 8,
             "tipo": "Realista",
-            "descricao": "São totalmente racionais, as tatuagens realistas prezam pelos detalhes e por muita - MUITA - fidelidade em relação à realidade."
+            "descrição": "São totalmente racionais, as tatuagens realistas prezam pelos detalhes e por muita - MUITA - fidelidade em relação à realidade.",
+            "categoria_id":1
         },
         {
             "id": 9,
             "tipo": "Maon",
-            "descricao": "Com curvas e tamanhos variados, a tribal costuma ser toda em preto e traz um simbolismo lá dos tempos antigos"
+            "descrição": "Com curvas e tamanhos variados, a tribal costuma ser toda em preto e traz um simbolismo lá dos tempos antigos",
+            "categoria_id":1
         },
         {
             "id": 10,
             "tipo": "Geometrico",
-            "descricao": "Todas têm um ar sofisticado com suas retas e círculos em conjunto. "
+            "descrição": "Todas têm um ar sofisticado com suas retas e círculos em conjunto.",
+            "categoria_id":1
         },
         {
             "id": 11,
             "tipo": "Sem contorno",
-            "descricao": "Os desenhos tão vívidos que o clássico contorno preto chega a não ser nem necessário."
-        }
+            "descrição": "Os desenhos tão vívidos que o clássico contorno preto chega a não ser nem necessário.",
+            "categoria_id":1
+        },
+        {
+            "id": 12,
+            "tipo":"industrial",
+            "descrição":"consiste de uma haste que atravessa um ponto e outro da orelha, com duas joias de enroscar na ponta para mantê-la no lugar",
+            "categoria_id":2
+        },
+        {
+            "id": 13,
+            "tipo":"Hélix",
+            "descrição":"A hélice fica na parte superior da orelha, na curva da aba externa do órgão",
+            "categoria_id":2
+        },
+        {
+            "id": 14,
+            "tipo":"Antitragus",
+            "descrição":" antitragus refere-se ao ponto que fica defronte ao trago, do outro lado da parte mais côncava da orelha.",
+            "categoria_id":2
+        }  
     ],
+    "categorias": [
+        {
+          "id": 1,
+          "nome": "tatuagens"
+        },
+        {
+          "id": 2,
+          "nome": "piercing"
+        }
+      ],
     "Funcioários": [
         {
             "id": 1,
@@ -90,7 +129,7 @@
         {
             "id": 1,
             "nome": "Starbrite colors",
-            "descrição": "aprovado pela anvisa"
+            "descrição": "aprovado pela anvisa"   
         },
         {
             "id": 2,

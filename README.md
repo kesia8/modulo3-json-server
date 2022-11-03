@@ -6,3 +6,6 @@
  Além disso, o servidor é capaz de inserir (POST), acessar os dados (GET), Atualizar um
 dado (PUT) e excluir um dado (DELETE) nas três rotas disponíveis.
 
+Link do render.com 
+https://json-server-sxly.onrender.com
+

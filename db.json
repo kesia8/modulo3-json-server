@@ -4,48 +4,56 @@
             "id": 1,
             "tipo": "Aquarela",
             "descrição": "Coloridas e cheias de vida, as tatuagens em aquarela são um prato cheio de criatividade.",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 2,
             "tipo": "Preto e branco",
             "descrição": "Os grandes destaques do estilo ficam por conta do sombreado e da precisão do traço.",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 3,
             "tipo": "Blackwork",
             "descrição": "O desenho é contado a partir da presença ou da ausência do pigmento",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 4,
             "tipo": "Glitch",
             "descrição": "Os desenhos contam com distorções estratégicas, para parecer que a tatuagem travou, ou deu um bug",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 5,
             "tipo": "Single line",
             "descrição": "Feitas com apenas uma linha",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 6,
             "tipo": "Oriental",
             "descrição": "Os desenhos, na maioria das vezes, são grandes e ocupam todo o local escolhido",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 7,
             "tipo": "Pontilhismo",
             "descrição": "É feita por pequenos pontos que formam o desenho",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
             "id": 8,
             "tipo": "Realista",
             "descrição": "São totalmente racionais, as tatuagens realistas prezam pelos detalhes e por muita - MUITA - fidelidade em relação à realidade.",
+            "preço":"a combinar",
             "categoria_id":1
         },
         {
@@ -76,12 +84,14 @@
             "id": 13,
             "tipo":"Hélix",
             "descrição":"A hélice fica na parte superior da orelha, na curva da aba externa do órgão",
+            "preço":"a combinar",
             "categoria_id":2
         },
         {
             "id": 14,
             "tipo":"Antitragus",
             "descrição":" antitragus refere-se ao ponto que fica defronte ao trago, do outro lado da parte mais côncava da orelha.",
+            "preço":"a combinar",
             "categoria_id":2
         }  
     ],
@@ -95,7 +105,7 @@
           "nome": "piercing"
         }
       ],
-    "funcioarios": [
+    "funcionarios": [
         {
             "id": 1,
             "nome": "Mike dos Santos",
